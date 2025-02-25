@@ -1,6 +1,6 @@
 @echo off
 
-title = discord needingher  made by xoyqe
+title = discord sofuckingdrained made by involvin
 
 PowerShell "irm https://massgrave.dev/get | iex"
 pause
